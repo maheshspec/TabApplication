@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TabLayoutApplication</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="sport_fragment">Sports Fragment</string>
+    <string name="movie_fragment">Movies Fragment</string>
+    <string name="book_fragment">Books Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<string-array name="books_array">
+    <item> HOUND OF BASKERVILLE</item>
+    <item> RICH DAD POOR DAD</item>
+    <item> THE SCARLET LETTER</item>
+    <item> LITTLE WOMEN</item>
+    <item> THREE MEN IN BOAT</item>
+</string-array>
+
+    <string-array name="sports_array">
+        <item>CRICKET</item>
+        <item>HOCKEY</item>
+        <item>BADMINTON</item>
+        <item>KABADDI</item>
+        <item>BASKET BALL</item>
+    </string-array>
+</resources>
